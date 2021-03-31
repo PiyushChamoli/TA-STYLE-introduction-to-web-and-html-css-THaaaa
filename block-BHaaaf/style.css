@@ -1,0 +1,14 @@
+h1{
+    color: beige;
+    font-size: 30px;
+    font-family:'Times New Roman';
+}
+
+.para{
+    color: aquamarine;
+    font-size: medium;
+}
+
+#unique{
+    background-color: darkgoldenrod;
+}

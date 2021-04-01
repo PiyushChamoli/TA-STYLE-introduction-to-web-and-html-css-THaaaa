@@ -1,0 +1,28 @@
+body{
+    background-color: #22396a;
+    color: white;
+    padding-left: 15px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(15, 4, 160);
+    height: 25px;
+    width: 100%;
+}
+
+a{
+    
+    color:rgb(233, 21, 21);
+    
+
+}
+
+h2{
+    color: rgb(177, 136, 34);
+}
+
+header{
+    text-align: center;
+}
+
